@@ -1,0 +1,31 @@
+.login-form {
+    max-width: 300px;
+  }
+.login-form-forgot {
+    float: right;
+  }
+.login-form-button {
+    width: 100%;
+  }
+
+.logo {
+    width: 120px;
+    height: 31px;
+    /* background: rgba(255, 255, 255, 0.2); */
+    margin: 16px 24px 16px 0;
+    float: left;
+  }
+.header-icon{
+    float: right;
+    color: white;
+    cursor: pointer;
+}
+.login-form{
+    justify-content: center;
+    margin-top: 10%;
+    background-color: #87c0de;
+    margin-left: 40%;
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+}
